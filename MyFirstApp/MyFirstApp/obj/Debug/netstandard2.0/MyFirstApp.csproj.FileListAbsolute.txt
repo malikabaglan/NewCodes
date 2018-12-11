@@ -1,0 +1,17 @@
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/bin/Debug/netstandard2.0/MyFirstApp.deps.json
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/bin/Debug/netstandard2.0/MyFirstApp.dll
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/bin/Debug/netstandard2.0/MyFirstApp.pdb
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/ControlersPage.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/EntryView.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/Images.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MoreControllers.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/NewControllers.xaml.g.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.AssemblyInfo.cs
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.dll
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.pdb
+/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj/Debug/netstandard2.0/MyFirstApp.csprojAssemblyReference.cache

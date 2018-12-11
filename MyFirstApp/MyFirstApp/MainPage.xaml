@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:MyFirstApp" 
+             x:Class="MyFirstApp.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        
+        
+        
+        <StackLayout 
+            Padding="50, 50, 50, 50" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+           
+            >
+     <Label 
+            Margin="10"
+            BackgroundColor="Red" 
+            Text="Hello To EveryBody" 
+            HorizontalOptions="Center"
+            VerticalOptions="Fill" 
+            Font="20"
+            TextColor="White"
+            FontFamily="Batang">
+        </Label>
+       
+            
+            
+            
+            
+             <Label
+                
+           Margin="10"
+           BackgroundColor="Silver" 
+           Text="My name is Malika Baglan" 
+           HorizontalOptions="Start" 
+           VerticalOptions="CenterAndExpand"
+           Font="Bold,20"
+           TextColor="Fuchsia"
+           FontFamily="Comic Sans MS">
+                
+        </Label>
+            
+            
+            
+            
+             <Label
+                
+            Margin="10"
+            BackgroundColor="Olive"
+            Text="This is my First Xamarin UI Page" 
+            HorizontalOptions="Start" 
+            VerticalOptions="CenterAndExpand" 
+            Font="20"
+            FontFamily="Franklin Gothic">
+                
+        </Label>
+            
+            
+            
+            
+            
+      
+        <Label 
+                
+            Margin="10"
+            BackgroundColor="Fuchsia" 
+            Text="Good Luck.Happy New Year to All!" 
+            HorizontalOptions="Center"
+            Font="Bold,20"
+            FontFamily="KaiTi"> 
+                
+        </Label>
+           
+            
+            
+            
+            
+            
+        
+            <Label
+                
+                Margin="10"
+                BackgroundColor="Lime"
+                Text="I enjoy learning new tolls.Thank you!!!"
+                HorizontalOptions="Start"
+                VerticalOptions="CenterAndExpand"
+                Font="Bold,20"
+                FontFamily="Latha">
+                
+            </Label>
+        
+    
+            
+            
+       
+        
+        <Label  
+                x:Name="myFirstLbl" 
+                HorizontalOptions="FillAndExpand"
+                VerticalTextAlignment="End" />
+        </StackLayout>
+        
+       
+    </StackLayout>
+</ContentPage>

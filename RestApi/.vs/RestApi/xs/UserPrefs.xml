@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E2BBA174-A533-4F40-A76A-4CE479621FCE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestApi/App.xaml.cs">
+    <Files>
+      <File FileName="RestApi/Constants.cs" Line="6" Column="33" />
+      <File FileName="RestApi/IRestServices.cs" Line="9" Column="27" />
+      <File FileName="RestApi/TechItem.cs" Line="14" Column="1" />
+      <File FileName="RestApi/RestServices.cs" Line="46" Column="1" />
+      <File FileName="RestApi/TechItemManager.cs" Line="18" Column="37" />
+      <File FileName="RestApi/App.xaml.cs" Line="17" Column="67" />
+      <File FileName="RestApi/MainPage.xaml.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RestApi.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.ItemProperties.RestApi.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/malikabaglan/Projects/RestApi/RestApi/MainPage.xaml.cs" relfile="RestApi/MainPage.xaml.cs" line="20" column="1" />
+      <Breakpoint file="/Users/malikabaglan/Projects/RestApi/RestApi/TechItemManager.cs" relfile="RestApi/TechItemManager.cs" line="18" column="1" />
+      <Breakpoint file="/Users/malikabaglan/Projects/RestApi/RestApi/RestServices.cs" relfile="RestApi/RestServices.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

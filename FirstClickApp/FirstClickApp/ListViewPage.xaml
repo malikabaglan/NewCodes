@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstClickApp.ListViewPage"
+             Padding="0,80,0,0"
+            >
+    
+   
+    <StackLayout>
+        
+          <SearchBar    Placeholder="Search" PlaceholderColor="Black" FontSize="Small" 
+                  FontAttributes="Italic" TextChanged="Handle_TextChanged"></SearchBar>
+        
+        
+        
+        
+        
+    
+    <ListView    x:Name="listView" IsPullToRefreshEnabled="true"
+                 ItemTapped="Handle_ItemTapped"
+                 ItemSelected="Handle_ItemSelected">
+       
+        
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell  Text="{Binding Name}" Detail="{Binding Status}">
+            <TextCell.ContextActions>
+                       <MenuItem Text="Call" Clicked="Call_Clicked" 
+                                 CommandParameter="{Binding .}"> </MenuItem>
+                          <MenuItem Text="Delete" Clicked="Delete_Clicked" 
+                                    IsDestructive="true" CommandParameter="{Binding .}"> </MenuItem>
+                    </TextCell.ContextActions>
+                    
+                </TextCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    
+    </StackLayout>
+    
+    
+    
+<!--  <StackLayout> 
+    <SearchBar    Placeholder="Search" PlaceholderColor="Black" FontSize="Small" 
+                  FontAttributes="Italic" TextChanged="Handle_TextChanged"></SearchBar>
+    <ListView x:Name="listView" IsGroupingEnabled="true" 
+             GroupDisplayBinding="{Binding Title}"
+              GroupShortNameBinding="{Binding ShortTitle}">
+        
+       
+            
+             <ListView.ItemTemplate>
+            
+        <DataTemplate>
+
+          
+         <ViewCell>
+                    
+             <StackLayout
+                    Orientation="Horizontal"  Padding="0,0,15,0">
+                        <Image Source="{Binding ImageUrl}"></Image>
+                        <StackLayout HorizontalOptions="StartAndExpand">
+                          <Label Text="{Binding Name}" ></Label>
+                            <Label Text="{Binding Status}" TextColor="Gray"></Label>
+                        </StackLayout>
+                        
+                        
+                        
+                        <Button Text="Follow"></Button>
+                   </StackLayout>
+                </ViewCell>
+                
+                
+                    
+                
+          </DataTemplate>
+        </ListView.ItemTemplate>
+             
+             </ListView>
+        </StackLayout>-->
+</ContentPage>

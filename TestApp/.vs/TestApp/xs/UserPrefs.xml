@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{225F9F2F-9DDD-4E12-BAFC-1C9011AED6BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/plugin.currentactivity/2.1.0.4/readme.txt">
+    <Files>
+      <File FileName="TestApp/Modal/Post.cs" Line="11" Column="1" />
+      <File FileName="TestApp/ButtonPage.xaml.cs" Line="27" Column="53" />
+      <File FileName="TestApp/ButtonPage.xaml" Line="35" Column="1" />
+      <File FileName="TestApp/HistoryPage.xaml" Line="13" Column="28" />
+      <File FileName="TestApp/HistoryPage.xaml.cs" Line="24" Column="14" />
+      <File FileName="TestApp/NewTravelPage.xaml.cs" Line="28" Column="90" />
+      <File FileName="TestApp.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="TestApp/MapPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="TestApp/MapPage.xaml" Line="13" Column="33" />
+      <File FileName="../../.nuget/packages/plugin.currentactivity/2.1.0.4/readme.txt" Line="18" Column="72" />
+      <File FileName="TestApp/HomePage.xaml" Line="15" Column="1" />
+      <File FileName="TestApp/NewTravelPage.xaml" Line="18" Column="1" />
+      <File FileName="TestApp/ProfilePage.xaml" Line="4" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Maps" x:Class="Maps.MainPage"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+  
+    <StackLayout VerticalOptions="FillAndExpand" Padding="10"
+                 HorizontalOptions="FillAndExpand"
+                 >
+        <maps:Map 
+            
+            x:Name="GoogleMap"
+            IsShowingUser="true"
+            MapType="Street"
+            
+        />
+    </StackLayout>
+    
+    
+       
+</ContentPage>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MyFirstApp.Images">
+   
+    
+    
+    <ContentPage.Content>
+
+        <ScrollView
+            Orientation="Vertical" 
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand">
+            <StackLayout Orientation="Vertical"
+   HorizontalOptions="FillAndExpand">
+                
+            <Image Source="round_alarm_add.png" />
+            <Image Source="round_alarm.png" />
+            
+            <Image Source="round_account.png" />
+            <Image Source="round_accessibility.png" />
+            <Image Source="round_alarm_add.png" />
+            <Image Source="round_alarm.png" />
+
+            <Image Source="round_alarm.png" />
+                
+                <Image Source="round_alarm_add.png" />
+            <Image Source="round_alarm.png" />
+            
+            <Image Source="round_account.png" />
+            <Image Source="round_accessibility.png" />
+            <Image Source="round_alarm_add.png" />
+            <Image Source="round_alarm.png" />
+
+            <Image Source="round_alarm.png" />
+                
+          </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B0635CF1-7558-4B6D-A070-A7F817CDE939}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroductionToCsharp/DemoVersion.cs">
+    <Files>
+      <File FileName="IntroductionToCsharp/DemoVersion.cs" Line="11" Column="1" />
+      <File FileName="IntroductionToCsharp/IfStatement.cs" Line="1" Column="3" />
+      <File FileName="IntroductionToCsharp/Program.cs" Line="2" Column="6" />
+      <File FileName="IntroductionToCsharp/RectangleApplication.cs" Line="52" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IntroductionToCsharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3E123B20-4CC0-40C0-9BC9-76F76E62AF5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lambdaexample/Program.cs">
+    <Files>
+      <File FileName="TextUtils/WordCount.cs" Line="18" Column="48" />
+      <File FileName="ITTransactions/Program.cs" Line="1" Column="1" />
+      <File FileName="lambdaexample/Program.cs" Line="9" Column="58" />
+      <File FileName="delegateExample/Program.cs" Line="20" Column="5" />
+      <File FileName="delegateExample/Abstraction.cs" Line="8" Column="2" />
+      <File FileName="RectangleApplication/Program.cs" Line="35" Column="2" />
+      <File FileName="inheritanceDemo/Program.cs" Line="10" Column="9" />
+      <File FileName="inheritanceDemo/polymorphism.cs" Line="5" Column="37" />
+      <File FileName="arrayDemo/Program.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ITTransactions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.delegateExample FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.arrayDemo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RectangleApplication FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.inheritanceDemo FirstBuild="True" />
+</Properties>

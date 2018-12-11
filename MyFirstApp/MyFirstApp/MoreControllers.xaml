@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+
+             x:Class="MyFirstApp.MoreControllers">
+    <ContentPage.Content>
+       
+        
+      <!--  <ProgressBar x:Name="progressBar" Progress="0.5" ProgressColor="Aqua" 
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand"
+                     WidthRequest="300"
+                     ></ProgressBar>-->
+        
+     <!--   
+       <Picker x:Name="picker" 
+               Title="Countries">
+            
+            <Picker.ItemsSource >
+                <x:Array Type="{x:Type x:String}">
+                <x:String>
+                    Kazakhstan
+                      
+                </x:String>
+                      <x:String>
+                    India
+                      
+                </x:String>
+                      <x:String>
+                    USA
+                      From Me to Everyone: (08:56 PM)
+                </x:String>
+                      <x:String>
+                    Russia 
+                      
+                </x:String>
+                      <x:String>
+                    Kazakhstan
+                      
+                </x:String>
+                    
+                    </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        -->
+ <!--       
+      <DatePicker x:Name="dataPicker" MinimumDate="01/01/1970" 
+                  MaximumDate="01/01/2020"
+                  Date="11/27/2018"
+            >
+            
+            
+        </DatePicker> -->
+      <!--  <TimePicker
+        
+        x:Name="timePicker" ></TimePicker>-->
+        
+      <maps:Map  WidthRequest="320" HeightRequest="200"
+            x:Name="MyMap"
+            IsShowingUser="true"
+            MapType="Street"
+               
+                 ></maps:Map>
+        
+        
+        
+        
+    </ContentPage.Content>
+</ContentPage>

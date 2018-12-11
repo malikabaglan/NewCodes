@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyFirstApp.ControlersPage" BackgroundColor="LightBlue">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" Padding="50" Spacing="5">
+            <BoxView HeightRequest="100">
+            </BoxView>
+            <Label Margin="10,50" Text="SIGN UP" HorizontalOptions="Center" VerticalOptions="Start" HorizontalTextAlignment="Start" Font="Bold,40" TextColor="White" FontFamily="Batang">
+            </Label>
+            <StackLayout BackgroundColor="Purple">
+                <Entry x:Name="username" Placeholder="USERNAME" FontAttributes="Italic" TextColor="Red" MaxLength="6" BackgroundColor="Teal" FontSize="Small" IsEnabled="true" Keyboard="Telephone">
+                </Entry>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+            <Entry x:Name="entity" Placeholder="EMAIL" TextColor="Red" FontAttributes="Italic" FontSize="Small" Keyboard="Email">
+            </Entry>
+            <Entry x:Name="password" Placeholder="PASSWORD" FontAttributes="Italic" FontSize="Small" Keyboard="Email" IsPassword="true" TextColor="Red">
+            </Entry>
+            <Entry x:Name="ConfirmPassword" Placeholder="CONFIRM PASSWORD" FontAttributes="Italic" FontSize="Small" Keyboard="Email" IsPassword="true" TextColor="Red">
+            </Entry>
+            <Button Margin="15" x:Name="action" Text="LOGIN" Font="15" Clicked="Handle_Clicked" BackgroundColor="Blue" HeightRequest="50" VerticalOptions="Start" FontAttributes="Bold" TextColor="White">
+            </Button>
+            <Button Margin="25" x:Name="forgetPsd" Text="Forget Password" Font="11" Clicked="Handle_Clicked" HeightRequest="20" VerticalOptions="EndAndExpand" HorizontalOptions="End" TextColor="White">
+            </Button>
+            <Label x:Name="label" TextColor="Red">
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

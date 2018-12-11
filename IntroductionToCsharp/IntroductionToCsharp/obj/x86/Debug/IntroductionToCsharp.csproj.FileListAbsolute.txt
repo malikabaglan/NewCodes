@@ -1,0 +1,6 @@
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/bin/Debug/IntroductionToCsharp.exe
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/bin/Debug/IntroductionToCsharp.pdb
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/obj/x86/Debug/IntroductionToCsharp.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/obj/x86/Debug/IntroductionToCsharp.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/obj/x86/Debug/IntroductionToCsharp.exe
+/Users/malikabaglan/Projects/IntroductionToCsharp/IntroductionToCsharp/obj/x86/Debug/IntroductionToCsharp.pdb

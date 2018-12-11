@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/Maps/Maps/bin/Debug/netstandard2.0/Maps.deps.json
+/Users/malikabaglan/Projects/Maps/Maps/bin/Debug/netstandard2.0/Maps.dll
+/Users/malikabaglan/Projects/Maps/Maps/bin/Debug/netstandard2.0/Maps.pdb
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.AssemblyInfo.cs
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.dll
+/Users/malikabaglan/Projects/Maps/Maps/obj/Debug/netstandard2.0/Maps.pdb

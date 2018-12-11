@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstClickApp.TableViewPage">
+    <TableView Intent="Form">
+        <TableRoot>
+            <TableSection Title="Basics">
+     <TextCell Text=" Name" Detail="Malika Baglan"></TextCell>
+                 <EntryCell Label="Title" Placeholder="(eg Shopping)"></EntryCell>
+                <EntryCell Label="Location" Placeholder="(eg Grosery Store)"></EntryCell>
+                 <EntryCell Label="Email Adrress" Placeholder="(eg email@example.com)"></EntryCell>
+                <SwitchCell  Text="Notifications" On="true"></SwitchCell>
+  
+                </TableSection>
+            <TableSection Title="Date/Time">
+        <ViewCell >
+       <StackLayout  Orientation="Horizontal"  Padding="13,5">
+ <Label Text="Starts" VerticalOptions="Center"></Label>
+<DatePicker Date="1 Jan 2018" HorizontalOptions="EndAndExpand"> </DatePicker>
+ </StackLayout>   
+</ViewCell>
+                   
+           <ViewCell>
+               <StackLayout  Orientation="Horizontal"  Padding="13,5">     
+                      <Label Text="Ends" VerticalOptions="Center"></Label>
+                      
+                      
+            <DatePicker Date="1 Jan 2038" HorizontalOptions="EndAndExpand"> </DatePicker>
+                  </StackLayout> 
+                  </ViewCell>
+                  </TableSection>
+                
+                <TableSection Title="Primary Contacts">     
+    <ViewCell Tapped="Handle_Tapped">
+    <StackLayout Orientation="Horizontal" Padding="13,5">
+        <Label Text="Contact Methods" VerticalOptions="Center"></Label>
+        <Label x:Name="contactMethod"
+               VerticalOptions="Center"
+               HorizontalOptions="EndAndExpand"
+               Text="None"
+               TextColor="Black"></Label>
+          
+    </StackLayout>
+          </ViewCell> 
+     </TableSection> 
+        </TableRoot>
+    </TableView>
+</ContentPage>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

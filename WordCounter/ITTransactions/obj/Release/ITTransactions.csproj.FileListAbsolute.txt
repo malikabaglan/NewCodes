@@ -1,0 +1,4 @@
+/Users/malikabaglan/Projects/WordCounter/ITTransactions/bin/Release/ITTransactions.exe
+/Users/malikabaglan/Projects/WordCounter/ITTransactions/obj/Release/ITTransactions.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/WordCounter/ITTransactions/obj/Release/ITTransactions.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/WordCounter/ITTransactions/obj/Release/ITTransactions.exe

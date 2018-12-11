@@ -1,0 +1,3 @@
+/Users/malikabaglan/Projects/WordCounter/lambdaexample/obj/Release/lambdaexample.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/WordCounter/lambdaexample/bin/Release/lambdaexample.exe
+/Users/malikabaglan/Projects/WordCounter/lambdaexample/obj/Release/lambdaexample.exe

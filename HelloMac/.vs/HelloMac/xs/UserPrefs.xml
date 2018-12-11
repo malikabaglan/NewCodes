@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A55FC806-4D0F-4513-B6F8-6E30DA285834}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloMac PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HelloMac/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

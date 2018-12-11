@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage
+    
+    
+    
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FirstClickApp"
+            x:Class="FirstClickApp.MainPage">
+    <local:ContactsPage Title="Contacts"
+                        Icon="round_alarm_add.png"/>
+    <NavigationPage  Title="Page1"
+        Icon="round_alarm_add.png">
+        <x:Arguments>
+             <local:ContentPage1></local:ContentPage1>
+        </x:Arguments>
+          </NavigationPage>
+  
+    
+       <ContentPage 
+        Title="Page2"
+        Icon="round_alarm_add.png">
+       <Label Text=" Content of Page2" 
+              HorizontalOptions="Center"
+              VerticalOptions="Center">
+            
+        </Label> 
+    </ContentPage>
+
+</TabbedPage>

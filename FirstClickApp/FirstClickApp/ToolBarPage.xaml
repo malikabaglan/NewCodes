@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="FirstClickApp.ToolBarPage"
+             
+             Title="Contacts">
+    <ContentPage.ToolbarItems>
+       <ToolbarItem Icon="round_alarm_add.png"
+                    Text="New"
+                    Activated="Handle_Activated"
+                    Order="Primary" >
+        </ToolbarItem>
+        
+          <ToolbarItem Icon="round_alarm_add.png"
+                    Text="New"
+                    Activated="Handle_Activated"
+                    Order="Secondary" >
+        </ToolbarItem>
+        
+    </ContentPage.ToolbarItems>
+    
+        
+   
+</ContentPage>
