@@ -1,5 +1,5 @@
---cache=/Users/malikabaglan/Projects/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
---sim=/Users/malikabaglan/Projects/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/TestApp.iOS.app
+--cache=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
+--sim=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/TestApp.iOS.app
 --executable=TestApp.iOS
 --debug
 --nolink
@@ -9,13 +9,13 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/malikabaglan/Projects/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
+--symbollist=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
--r=/Users/malikabaglan/Projects/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+-r=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Primitives.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Registry.AccessControl.dll
@@ -204,7 +204,7 @@
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
--r=/Users/malikabaglan/Projects/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+-r=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/malikabaglan/Projects/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
+--root-assembly=/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
 

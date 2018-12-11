@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp.iOS/MyFirstApp.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp.iOS/MyFirstApp.iOS.csproj",
       "projectName": "MyFirstApp.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp.iOS/MyFirstApp.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp.iOS/MyFirstApp.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -828,8 +828,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
             }
           }
         }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/HelloWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/malikabaglan/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/HelloWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/HelloWorld/HelloWorld/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/HelloWorld/HelloWorld/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -722,7 +722,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },

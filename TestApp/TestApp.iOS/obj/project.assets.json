@@ -1167,11 +1167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/TestApp/TestApp.iOS/TestApp.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/TestApp.iOS.csproj",
       "projectName": "TestApp.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/TestApp/TestApp.iOS/TestApp.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/TestApp.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/TestApp/TestApp.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -1185,8 +1185,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/TestApp/TestApp/TestApp.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/TestApp/TestApp/TestApp.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/TestApp.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/TestApp.csproj"
             }
           }
         }

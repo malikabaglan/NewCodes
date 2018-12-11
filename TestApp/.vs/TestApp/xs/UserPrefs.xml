@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{225F9F2F-9DDD-4E12-BAFC-1C9011AED6BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/plugin.currentactivity/2.1.0.4/readme.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/Modal/Post.cs">
     <Files>
       <File FileName="TestApp/Modal/Post.cs" Line="11" Column="1" />
       <File FileName="TestApp/ButtonPage.xaml.cs" Line="27" Column="53" />
@@ -10,7 +10,6 @@
       <File FileName="TestApp.iOS/Main.cs" Line="1" Column="1" />
       <File FileName="TestApp/MapPage.xaml.cs" Line="21" Column="10" />
       <File FileName="TestApp/MapPage.xaml" Line="13" Column="33" />
-      <File FileName="../../.nuget/packages/plugin.currentactivity/2.1.0.4/readme.txt" Line="18" Column="72" />
       <File FileName="TestApp/HomePage.xaml" Line="15" Column="1" />
       <File FileName="TestApp/NewTravelPage.xaml" Line="18" Column="1" />
       <File FileName="TestApp/ProfilePage.xaml" Line="4" Column="44" />

@@ -391,11 +391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/MyFirstApp/MyFirstApp/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/MyFirstApp/MyFirstApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

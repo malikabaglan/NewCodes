@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/TestApp/TestApp/TestApp.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "/Users/malikabaglan/Projects/TestApp/TestApp/TestApp.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/TestApp.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/TestApp/TestApp/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

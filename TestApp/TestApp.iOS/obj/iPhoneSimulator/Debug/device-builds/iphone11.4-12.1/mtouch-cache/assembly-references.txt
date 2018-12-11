@@ -1,4 +1,4 @@
-/Users/malikabaglan/Projects/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp.iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.iOS/System.dll
@@ -23,7 +23,7 @@
 /Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
 /Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
-/Users/malikabaglan/Projects/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
 /Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Users/malikabaglan/.nuget/packages/sqlite-net-pcl/1.5.231/lib/netstandard1.1/SQLite-net.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.11/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
