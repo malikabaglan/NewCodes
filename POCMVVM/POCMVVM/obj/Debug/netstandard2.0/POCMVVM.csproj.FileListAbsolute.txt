@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.AssemblyInfo.cs
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/bin/Debug/netstandard2.0/POCMVVM.deps.json
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/bin/Debug/netstandard2.0/POCMVVM.dll
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/bin/Debug/netstandard2.0/POCMVVM.pdb
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.dll
+/Users/malikabaglan/Projects/POCMVVM/POCMVVM/obj/Debug/netstandard2.0/POCMVVM.pdb

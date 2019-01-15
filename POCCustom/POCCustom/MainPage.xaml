@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:POCCustom;assembly=POCCustom" 
+             x:Class="POCCustom.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <local:CustomLabel 
+                WidthRequest="325" 
+                Text="Welcome to Xamarin.Forms!" 
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" />
+        
+        <local:CustomEntry     WidthRequest="325" 
+                Placeholder="I am a customEntry!"
+                               
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" >
+            
+        </local:CustomEntry>
+        
+        <Button 
+            BackgroundColor="Green" 
+            TextColor="White" 
+            Text="Camera" 
+            Clicked="CameraB_Clicked"></Button>
+        
+            <Button 
+            BackgroundColor="Green" 
+            TextColor="White" 
+            Text="Idevice" 
+            Clicked="Device_Clicked"></Button>
+        
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{916858E2-CEEA-4A0F-BB45-87AB2B40001A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomEntryValidations.Android/ExtendedEntryRenderer.cs">
+    <Files>
+      <File FileName="CustomEntryValidations.Android/ExtendedEntryRenderer.cs" Line="6" Column="36" />
+      <File FileName="CustomEntryValidations/ExtendedEntry.cs" Line="6" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomEntryValidations.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.ItemProperties.CustomEntryValidations.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

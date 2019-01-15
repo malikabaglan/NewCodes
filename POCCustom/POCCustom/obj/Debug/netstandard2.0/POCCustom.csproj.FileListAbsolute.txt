@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/POCCustom/POCCustom/bin/Debug/netstandard2.0/POCCustom.deps.json
+/Users/malikabaglan/Projects/POCCustom/POCCustom/bin/Debug/netstandard2.0/POCCustom.dll
+/Users/malikabaglan/Projects/POCCustom/POCCustom/bin/Debug/netstandard2.0/POCCustom.pdb
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.AssemblyInfo.cs
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.dll
+/Users/malikabaglan/Projects/POCCustom/POCCustom/obj/Debug/netstandard2.0/POCCustom.pdb

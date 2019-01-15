@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{EB3C64B3-0D0A-4FB4-93C6-0F0CD1928C3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POCCustom.iOS/IDevice_Ios.cs">
+    <Files>
+      <File FileName="POCCustom/MainPage.xaml.cs" Line="10" Column="7" />
+      <File FileName="POCCustom.Android/IDevice_Droid.cs" Line="10" Column="48" />
+      <File FileName="POCCustom.iOS/IDevice_Ios.cs" Line="11" Column="28" />
+      <File FileName="POCCustom/IHiCamera.cs" Line="6" Column="23" />
+      <File FileName="POCCustom/MainPage.xaml" Line="32" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POCCustom.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/malikabaglan/Projects/POCCustom/POCCustom.iOS/IDevice_Ios.cs" relfile="POCCustom.iOS/IDevice_Ios.cs" line="14" column="1" />
+      <Breakpoint file="/Users/malikabaglan/Projects/POCCustom/POCCustom.Android/IDevice_Droid.cs" relfile="POCCustom.Android/IDevice_Droid.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.POCCustom.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

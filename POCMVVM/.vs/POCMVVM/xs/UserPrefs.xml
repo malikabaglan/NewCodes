@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E1618FF6-2AFC-4CEA-9924-AD6E4EF7B7B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.POCMVVM.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.POCMVVM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="POCMVVM/MainPageViewModal.cs">
+    <Files>
+      <File FileName="POCMVVM/MainPage.xaml" Line="9" Column="54" />
+      <File FileName="POCMVVM/MainPageViewModal.cs" Line="40" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
