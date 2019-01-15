@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{22A7B035-F11B-4A83-BE44-29EE0730F4C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POCMasterDetails/Views/MainPage.xaml">
+    <Files>
+      <File FileName="POCMasterDetails/Views/MenuPage.xaml" Line="9" Column="55" />
+      <File FileName="POCMasterDetails/Views/MainPage.xaml" Line="10" Column="25" />
+      <File FileName="POCMasterDetails/Views/MenuPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="POCMasterDetails/Views/MainPage.xaml.cs" Line="39" Column="14" />
+      <File FileName="POCMasterDetails/Models/HomeMenuItem.cs" Line="13" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POCMasterDetails.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.ItemProperties.POCMasterDetails.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
