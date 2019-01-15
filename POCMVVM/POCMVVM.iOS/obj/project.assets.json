@@ -856,11 +856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.iOS/POCMVVM.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.iOS/POCMVVM.iOS.csproj",
       "projectName": "POCMVVM.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.iOS/POCMVVM.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.iOS/POCMVVM.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -874,8 +874,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/POCMVVM/POCMVVM/POCMVVM.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM/POCMVVM.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM/POCMVVM.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM/POCMVVM.csproj"
             }
           }
         }

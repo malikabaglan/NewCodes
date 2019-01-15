@@ -888,11 +888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.Android/POCMVVM.Android.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.Android/POCMVVM.Android.csproj",
       "projectName": "POCMVVM.Android",
-      "projectPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.Android/POCMVVM.Android.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.Android/POCMVVM.Android.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM.Android/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -906,8 +906,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/POCMVVM/POCMVVM/POCMVVM.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/POCMVVM/POCMVVM/POCMVVM.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM/POCMVVM.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/POCMVVM/POCMVVM/POCMVVM.csproj"
             }
           }
         }

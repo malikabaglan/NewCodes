@@ -15,3 +15,9 @@ DataPassing/DataPassing.Android/obj/Debug/_dex_stamp
 *.jm
 *.mj
 *.flag
+POCMVVM/POCMVVM.Android/obj/POCMVVM.Android.csproj.nuget.g.props
+POCMVVM/POCMVVM.Android/obj/project.assets.json
+POCMVVM/POCMVVM.iOS/obj/POCMVVM.iOS.csproj.nuget.g.props
+POCMVVM/POCMVVM.iOS/obj/project.assets.json
+POCMVVM/POCMVVM/obj/POCMVVM.csproj.nuget.g.props
+POCMVVM/POCMVVM/obj/project.assets.json
