@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D99C1F80-8BAE-439F-B0DA-3C91B5929C2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataPassing/MyInformationPage.xaml">
+    <Files>
+      <File FileName="DataPassing/MeetKittyPage.xaml" Line="67" Column="1" />
+      <File FileName="DataPassing/MeetKittyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DataPassing/MyInformationPage.xaml" Line="9" Column="68" />
+      <File FileName="DataPassing/MyWelcomePage.xaml" Line="42" Column="15" />
+      <File FileName="DataPassing/MyWelcomePage.xaml.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataPassing.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.DataPassing.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="DataPassing.MeetKittyPage">
+     <TableView Intent="Form">
+        <TableRoot>
+            <TableSection Title="Personal Information">
+     <TextCell Text=" Name" Detail="Please Enter Your Full Name"></TextCell>
+                 <EntryCell Label="Occupation" Placeholder="(eg Mobile Developer)"></EntryCell>
+                <EntryCell Label="Primary Phone " Placeholder="(eg ##########)"></EntryCell>
+                 <EntryCell Label="Email Adrress" Placeholder="(eg email@example.com)"></EntryCell>
+
+                <SwitchCell  Text="Notifications about new Kittens" On="true" ></SwitchCell>
+  
+                </TableSection>
+            <TableSection Title="When would you like meet Roderick">
+        <ViewCell >
+       <StackLayout  Orientation="Horizontal"  Padding="13,5">
+ <Label Text="Time" VerticalOptions="Center"></Label>
+<TimePicker Time="4:15:26" HorizontalOptions="EndAndExpand"> </TimePicker>
+ </StackLayout>   
+</ViewCell>
+                   
+           <ViewCell>
+               <StackLayout  Orientation="Horizontal"  Padding="13,5">     
+                      <Label Text="Date" VerticalOptions="Center"></Label>
+                      
+                      
+            <DatePicker Date="1 Jan 2038" HorizontalOptions="EndAndExpand"> </DatePicker>
+                  </StackLayout> 
+                  </ViewCell>
+                  </TableSection>
+                
+                <TableSection Title="Primary Contacts">     
+    <ViewCell >
+    <StackLayout Orientation="Horizontal" Padding="13,5">
+        <Label Text="Contact Methods" VerticalOptions="Center"></Label>
+        <Label x:Name="contactMethod"
+               VerticalOptions="Center"
+               HorizontalOptions="EndAndExpand"
+               Text="None"
+               TextColor="Black"></Label>
+          
+    </StackLayout>
+          </ViewCell> 
+     </TableSection> 
+        </TableRoot>
+    </TableView>
+</ContentPage>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.Android/FirstClickApp.Android.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.Android/FirstClickApp.Android.csproj",
       "projectName": "FirstClickApp.Android",
-      "projectPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.Android/FirstClickApp.Android.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.Android/FirstClickApp.Android.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.Android/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -842,8 +842,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj"
             }
           }
         }

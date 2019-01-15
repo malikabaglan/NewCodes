@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/FirstClickApp.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/FirstClickApp.iOS.csproj",
       "projectName": "FirstClickApp.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/FirstClickApp.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/FirstClickApp.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -816,8 +816,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj"
             }
           }
         }

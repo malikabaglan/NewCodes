@@ -1,5 +1,5 @@
---cache=/Users/malikabaglan/Projects/Maps/Maps.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
---sim=/Users/malikabaglan/Projects/Maps/Maps.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/Maps.iOS.app
+--cache=/Users/malikabaglan/Projects/NewCodes/Maps/Maps.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
+--sim=/Users/malikabaglan/Projects/NewCodes/Maps/Maps.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/Maps.iOS.app
 --executable=Maps.iOS
 --debug
 --nolink
@@ -9,9 +9,9 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/malikabaglan/Projects/Maps/Maps.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
+--symbollist=/Users/malikabaglan/Projects/NewCodes/Maps/Maps.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
 --dsym=no
--r=/Users/malikabaglan/Projects/Maps/Maps/bin/Debug/netstandard2.0/Maps.dll
+-r=/Users/malikabaglan/Projects/NewCodes/Maps/Maps/bin/Debug/netstandard2.0/Maps.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
@@ -158,6 +158,7 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll
+-r=/Users/malikabaglan/.nuget/packages/exiflib.pcl/1.0.1/lib/portable-net45+sl50+win+WindowsPhoneApp81+wp80+Xamarin.iOS10+MonoAndroid10+MonoTouch10/ExifLib.dll
 -r=/Users/malikabaglan/.nuget/packages/plugin.permissions/3.0.0.12/lib/xamarinios10/Plugin.Permissions.dll
 -r=/Users/malikabaglan/.nuget/packages/xam.plugin.geolocator/4.5.0.6/lib/xamarinios10/Plugin.Geolocator.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
@@ -198,9 +199,17 @@
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+-r=/Users/malikabaglan/.nuget/packages/xamarin.forms.inputkit/2.3.5/lib/xamarin.ios10/Plugin.InputKit.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms.maps/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
--r=/Users/malikabaglan/Projects/Maps/Maps/bin/Debug/netstandard2.0/Maps.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.core/2.0.5782/lib/Xamarin.iOS10/XLabs.Core.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.forms/2.0.5782/lib/Xamarin.iOS10/XLabs.Forms.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.forms/2.0.5782/lib/Xamarin.iOS10/XLabs.Forms.iOS.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.ioc/2.0.5782/lib/portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1/XLabs.Ioc.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.platform/2.0.5782/lib/Xamarin.iOS10/XLabs.Platform.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.platform/2.0.5782/lib/Xamarin.iOS10/XLabs.Platform.iOS.dll
+-r=/Users/malikabaglan/.nuget/packages/xlabs.serialization/2.0.5782/lib/Xamarin.iOS10/XLabs.Serialization.dll
+-r=/Users/malikabaglan/Projects/NewCodes/Maps/Maps/bin/Debug/netstandard2.0/Maps.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/malikabaglan/Projects/Maps/Maps.iOS/bin/iPhoneSimulator/Debug/Maps.iOS.exe
+--root-assembly=/Users/malikabaglan/Projects/NewCodes/Maps/Maps.iOS/bin/iPhoneSimulator/Debug/Maps.iOS.exe
 

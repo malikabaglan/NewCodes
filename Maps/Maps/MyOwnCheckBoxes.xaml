@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             
+              xmlns:local="clr-namespace:MyOwnCheckBoxes.InputKit"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+            x:Class="Maps.MyOwnCheckBoxes"
+             Padding="20">
+
+        
+        <Grid Margin="25,56" RowSpacing="-100">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="120"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+        
+            <Grid Grid.Row="0" RowSpacing="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            
+            <Grid Grid.Row="0" ColumnSpacing="25">
+                <Grid.ColumnDefinitions>
+                     <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                  <Label Grid.Column="0" Text="Proffession"></Label>
+                </Grid>
+     
+    
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" 
+                       Text="text"></Label>
+              </Grid>
+            
+            
+              <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Text="Select a Proffession"></Label>
+              </Grid>
+    
+     </Grid>
+        
+     <StackLayout Grid.Row="1" Spacing="12">
+            <input:CheckBox Text="Pharmacist" Type="Box" Margin="0,250,0,0"/>
+            <input:CheckBox Text="Pharmacist Intern" Type="Check"   />
+            <input:CheckBox Text="Pharmacist Student" Type="Cross"/>
+            <input:CheckBox Text="Technician" Type="Star"/>
+             <input:CheckBox Text="Technician In Training" Type="Star"/>
+        </StackLayout>
+        
+    </Grid>
+
+</ContentPage>

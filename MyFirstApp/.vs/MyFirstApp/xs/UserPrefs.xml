@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{6DD07D5C-D537-441A-B08A-89E685E98742}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApp/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApp/EntryViewModel.cs">
     <Files>
       <File FileName="MyFirstApp/EntryView.xaml" Line="13" Column="67" />
       <File FileName="MyFirstApp/EntryView.xaml.cs" Line="23" Column="1" />

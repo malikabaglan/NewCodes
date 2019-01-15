@@ -1,0 +1,15 @@
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/bin/Debug/netstandard2.0/DataPassing.deps.json
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/bin/Debug/netstandard2.0/DataPassing.dll
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/bin/Debug/netstandard2.0/DataPassing.pdb
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/MeetKittyPage.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/MyInformationPage.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/MyWelcomePage.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.AssemblyInfo.cs
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.dll
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.pdb
+/Users/malikabaglan/Projects/NewCodes/DataPassing/DataPassing/obj/Debug/netstandard2.0/DataPassing.csprojAssemblyReference.cache

@@ -1,4 +1,6 @@
 ﻿using System;
+using Microsoft.WindowsAzure.MobileServices;
+using TestApp.Modal;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,21 +12,26 @@ namespace TestApp
 
     {
 
-        public static string DatabaseLocation =string.Empty;
+        public static string DatabaseLocation = string.Empty;
 
+
+        public static MobileServiceClient MobileService = new MobileServiceClient("https://malikasapp.azurewebsites.net");
+
+
+        public static User user = new User();
 
         public App()
         {
 
-           
+
 
             InitializeComponent();
 
-           // MainPage = new MainPage();
-            MainPage =  new NavigationPage(new ButtonPage());
+            // MainPage = new MainPage();
+            MainPage = new NavigationPage(new ButtonPage());
         }
 
-   public App(string dataBaseLocation)
+        public App(string dataBaseLocation)
         {
             InitializeComponent();
 

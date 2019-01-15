@@ -798,11 +798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/RestApi/RestApi.iOS/RestApi.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi.iOS/RestApi.iOS.csproj",
       "projectName": "RestApi.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/RestApi/RestApi.iOS/RestApi.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi.iOS/RestApi.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/RestApi/RestApi.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -816,8 +816,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/RestApi/RestApi/RestApi.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/RestApi/RestApi/RestApi.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/RestApi.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/RestApi.csproj"
             }
           }
         }

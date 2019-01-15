@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="POCData.MySecondPage">
+    <ContentPage.Content>
+        
+        
+        <StackLayout 
+            Spacing="10" 
+            Orientation="Vertical" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center">
+            
+            <Button Text="BACK" Clicked="Handle_Clicked" />
+            <Label x:Name="lbl" />
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

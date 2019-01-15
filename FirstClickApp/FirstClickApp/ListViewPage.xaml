@@ -10,17 +10,9 @@
         
           <SearchBar    Placeholder="Search" PlaceholderColor="Black" FontSize="Small" 
                   FontAttributes="Italic" TextChanged="Handle_TextChanged"></SearchBar>
-        
-        
-        
-        
-        
-    
-    <ListView    x:Name="listView" IsPullToRefreshEnabled="true"
+ <ListView    x:Name="listView" IsPullToRefreshEnabled="true"
                  ItemTapped="Handle_ItemTapped"
                  ItemSelected="Handle_ItemSelected">
-       
-        
         <ListView.ItemTemplate>
             <DataTemplate>
                 <TextCell  Text="{Binding Name}" Detail="{Binding Status}">

@@ -1,0 +1,17 @@
+
+*.dll
+*.class
+*.pdb
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.mdb
+*.cache
+*.stamp
+*.dex
+*.zip
+DataPassing/DataPassing.Android/obj/Debug/_dex_stamp
+*.jm
+*.mj
+*.flag

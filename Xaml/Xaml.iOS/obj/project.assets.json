@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/Xaml/Xaml.iOS/Xaml.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.iOS/Xaml.iOS.csproj",
       "projectName": "Xaml.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/Xaml/Xaml.iOS/Xaml.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.iOS/Xaml.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/Xaml/Xaml.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/Xaml/Xaml/Xaml.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/Xaml/Xaml/Xaml.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml/Xaml.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml/Xaml.csproj"
             }
           }
         }
@@ -752,7 +752,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.1.0.697729"
+            "version": "[3.1.0.697729, )"
           }
         }
       }

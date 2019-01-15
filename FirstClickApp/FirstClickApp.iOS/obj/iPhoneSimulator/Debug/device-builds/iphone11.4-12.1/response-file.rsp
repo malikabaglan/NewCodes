@@ -1,5 +1,5 @@
---cache=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
---sim=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/FirstClickApp.iOS.app
+--cache=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
+--sim=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/FirstClickApp.iOS.app
 --executable=FirstClickApp.iOS
 --debug
 --nolink
@@ -9,9 +9,9 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
+--symbollist=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
 --dsym=no
--r=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/bin/Debug/netstandard2.0/FirstClickApp.dll
+-r=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/bin/Debug/netstandard2.0/FirstClickApp.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
@@ -197,7 +197,7 @@
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.1.0.697729/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.1.0.697729/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.1.0.697729/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/bin/Debug/netstandard2.0/FirstClickApp.dll
+-r=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/bin/Debug/netstandard2.0/FirstClickApp.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp.iOS/bin/iPhoneSimulator/Debug/FirstClickApp.iOS.exe
+--root-assembly=/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp.iOS/bin/iPhoneSimulator/Debug/FirstClickApp.iOS.exe
 

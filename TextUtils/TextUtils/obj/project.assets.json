@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/TextUtils/TextUtils/TextUtils.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/TextUtils/TextUtils/TextUtils.csproj",
       "projectName": "TextUtils",
-      "projectPath": "/Users/malikabaglan/Projects/TextUtils/TextUtils/TextUtils.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/TextUtils/TextUtils/TextUtils.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/TextUtils/TextUtils/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/TextUtils/TextUtils/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

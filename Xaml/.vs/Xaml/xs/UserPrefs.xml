@@ -1,18 +1,30 @@
 ﻿<Properties StartupConfiguration="{3BE63394-F837-446A-BA58-F694E36E335B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xaml/MainPage.xaml.cs">
+  <MonoDevelop.Ide.ItemProperties.Xaml.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xaml/App.xaml">
     <Files>
       <File FileName="Xaml/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="Xaml/MainPage.xaml" Line="7" Column="15" />
       <File FileName="Xaml/App.xaml" Line="5" Column="15" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xaml" expanded="True">
+            <Node name="Xaml" expanded="True">
+              <Node name="App.xaml" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Xaml FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Xaml.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Xaml FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Xaml.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Xaml.iOS FirstBuild="True" />
 </Properties>

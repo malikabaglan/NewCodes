@@ -10,3 +10,14 @@
 /Users/malikabaglan/Projects/RestApi/RestApi/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/malikabaglan/Projects/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.dll
 /Users/malikabaglan/Projects/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.pdb
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/bin/Debug/netstandard2.0/RestApi.deps.json
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/bin/Debug/netstandard2.0/RestApi.dll
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/bin/Debug/netstandard2.0/RestApi.pdb
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.AssemblyInfo.cs
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.dll
+/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj/Debug/netstandard2.0/RestApi.pdb

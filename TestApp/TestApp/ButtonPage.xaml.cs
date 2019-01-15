@@ -1,31 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Linq;
+using TestApp.Modal;
 using Xamarin.Forms;
 
 namespace TestApp
 {
     public partial class ButtonPage : ContentPage
     {
+        void Handle_Clicked_1(object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new RegisterPage());
+        }
 
         public ButtonPage()
         {
             InitializeComponent();
+
         }
 
-        void Handle_Clicked(object sender, System.EventArgs e)
+        async void Handle_Clicked(object sender, System.EventArgs e)
         {
-           bool  isEmailEmpty=string.IsNullOrEmpty(emailEntry.Text);
-            bool isPasswordEmpty = string.IsNullOrEmpty(passwordEntry.Text);
-
-            if (isEmailEmpty  || isPasswordEmpty)
+            bool canLogin = await User.Login(emailEntry.Text, passwordEntry.Text);
+            if (canLogin)
             {
+                await Navigation.PushAsync(new HomePage());
+           }
 
-            }
+
             else
-            {
-                Navigation.PushAsync(new HomePage());
+                await DisplayAlert("Error", "Try again", "Ok");
             }
         }
     }
-}
+

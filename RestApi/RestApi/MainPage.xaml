@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-             xmlns:local="clr-namespace:RestApi" x:Class="RestApi.MainPage">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:RestApi" x:Class="RestApi.MainPage">
     <StackLayout Orientation="Vertical" Spacing="10" Padding="50">
         <!-- Place new controls here -->
-        <Button x:Name="button"
+        <!--<Button x:Name="button"
                 Text="click"
                 Clicked="Handle_Clicked"></Button>
-        <Label x:Name="RestApi" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></Label>
+        <Label x:Name="RestApi" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></Label>-->
+        
+        <ListView x:Name="TechList" RowHeight="150">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout 
+                            Orientation="Vertical" 
+                            Padding="5" 
+                            HorizontalOptions="FillAndExpand" 
+                            VerticalOptions="CenterAndExpand">
+                            
+                            <Label Text="{Binding Id}" TextColor="Teal" />
+                            <Label Text="{Binding Name}" TextColor="Teal" />
+                            <Label Text="{Binding Language}" TextColor="Teal" />
+                            <Label Text="{Binding Rank}" TextColor="Teal" />
+                            <Label Text="{Binding TechFlag}" TextColor="Teal" />
+                            
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
     </StackLayout>
 </ContentPage>

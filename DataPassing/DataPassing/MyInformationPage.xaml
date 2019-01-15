@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+              x:Class="DataPassing.MyInformationPage"
+             BackgroundImage="img.jpg"
+             >
+<!--    
+    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
+        Source="http://www.stelleninfotech.com/images/mobile-application.png" />-->
+    
+    <ContentPage.Content >
+        
+       
+        
+        
+    <!--           
+     <Image Source="http://www.stelleninfotech.com/images/mobile-application.png"
+                   Aspect="AspectFill"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand"
+           
+      ></Image>-->
+            
+        <StackLayout BackgroundColor="Red" Padding="0"  >
+            
+     <Label Text="Hello Decorate Me" TextDecorations="Underline"></Label>
+            
+       <Entry  x:Name="text" Placeholder="Please enter your name"
+               TextColor="Red"></Entry>
+         <Button Text="Continue" Padding="20"  Clicked="Handle_Clicked"  TextColor="Black">
+        </Button> 
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -8,5 +8,6 @@ namespace RestApi
     {
         // * Get Async API
         Task<List<TechItem>> CallGetAPI();
+        Task<List<TechItem>> CallPostApi();
     }
 }

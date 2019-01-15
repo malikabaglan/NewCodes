@@ -385,11 +385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj",
       "projectName": "FirstClickApp",
-      "projectPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/FirstClickApp.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/FirstClickApp.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/FirstClickApp/FirstClickApp/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/FirstClickApp/FirstClickApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

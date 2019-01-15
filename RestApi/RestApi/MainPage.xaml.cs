@@ -17,13 +17,33 @@ namespace RestApi
 
         async void Handle_Clicked(object sender, System.EventArgs e)
         {
-            List<TechItem> techItems = await App.TechManager.GetAsyncData();
-            TechItem techItem = techItems[0];
+            //List<TechItem> techItems = await App.TechManager.GetAsyncData();
+            //TechList.ItemsSource = techItems;
 
-            Console.WriteLine("NAME : {0}", techItem.Name);
-            Console.WriteLine("Language : {0}", techItem.Language);
+            //TechItem techItem = techItems[3];
+        
 
-            RestApi.Text = techItem.Language;
+           // Console.WriteLine("NAME : {0}", techItem.Name);
+          //  Console.WriteLine("Language : {0}", techItem.Language);
+
+            /*RestApi.Text = techItem.Language;
+            RestApi.Text = techItem.Name;
+            RestApi.Text = techItem.Rank.ToString();*/
+          
+        }
+
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+
+            //   List<TechItem> techItems = await App.TechManager.GetAsyncData();
+            List<TechItem> techItems = await App.TechManager.PostAsyncData();
+
+            //List<TechItem> updatedItem = new List<TechItem>();
+            //updatedItem.Add(techItems[0]);
+            //updatedItem.Add(techItems[1]);
+
+            TechList.ItemsSource = techItems;
         }
     }
 }

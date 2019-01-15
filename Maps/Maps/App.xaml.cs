@@ -11,7 +11,9 @@ namespace Maps
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            //  MainPage = new MyLoginPage();
+            //MainPage = new CheckAndUnchecked();
+            MainPage = new MyOwnCheckBoxes();
         }
 
         protected override void OnStart()

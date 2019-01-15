@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6871BC3E-7000-480A-97E9-EC9886782D65}|Default">
+  <MonoDevelop.Ide.ItemProperties.POCData.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="POCData/MyFirstPage.xaml.cs">
+    <Files>
+      <File FileName="POCData/MyFirstPage.xaml.cs" Line="17" Column="88" />
+      <File FileName="POCData/MySecondPage.xaml.cs" Line="13" Column="40" />
+      <File FileName="POCData/MySecondPage.xaml" Line="16" Column="28" />
+      <File FileName="POCData/MyFirstPage.xaml" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POCData.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

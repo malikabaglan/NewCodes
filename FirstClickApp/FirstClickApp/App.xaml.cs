@@ -11,14 +11,14 @@ namespace FirstClickApp
         {
             InitializeComponent();
 
-            //MainPage = new ListViewPage();
+            MainPage = new GridPage();
             //MainPage = new NavigationPage(new WelcomePage());
             //MainPage = new ContactsPage();
            // MainPage = new MainPage();
             // MainPage = new TypeOfAlerts();
            //MainPage = new NavigationPage(new ToolBarPage());
             //MainPage = new SwitchPage();
-            MainPage = new NavigationPage(new TableViewPage());
+            ////MainPage = new NavigationPage(new TableViewPage());
         }
 
         protected override void OnStart()

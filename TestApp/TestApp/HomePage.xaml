@@ -5,7 +5,8 @@
              x:Class="TestApp.HomePage"
             >
   <TabbedPage.ToolbarItems>
-        <ToolbarItem  Text="Add" Clicked="Handle_Clicked"> </ToolbarItem>
+        <ToolbarItem  Text="Add" Icon="plane.png" Command="{Binding NavCommand}"> </ToolbarItem>
+        
     </TabbedPage.ToolbarItems>
     <local:HistoryPage Title="History" />
     <local:MapPage Title="Map"/>

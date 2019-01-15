@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/Xaml/Xaml.Android/Xaml.Android.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.Android/Xaml.Android.csproj",
       "projectName": "Xaml.Android",
-      "projectPath": "/Users/malikabaglan/Projects/Xaml/Xaml.Android/Xaml.Android.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.Android/Xaml.Android.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/Xaml/Xaml.Android/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -802,8 +802,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/Xaml/Xaml/Xaml.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/Xaml/Xaml/Xaml.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml/Xaml.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/Xaml/Xaml/Xaml.csproj"
             }
           }
         }
@@ -812,29 +812,29 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "3.1.0.697729"
-          },
           "Xamarin.Android.Support.Design": {
             "target": "Package",
-            "version": "27.0.2.1"
-          },
-          "Xamarin.Android.Support.v7.AppCompat": {
-            "target": "Package",
-            "version": "27.0.2.1"
+            "version": "[27.0.2.1, )"
           },
           "Xamarin.Android.Support.v4": {
             "target": "Package",
-            "version": "27.0.2.1"
+            "version": "[27.0.2.1, )"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
+            "target": "Package",
+            "version": "[27.0.2.1, )"
           },
           "Xamarin.Android.Support.v7.CardView": {
             "target": "Package",
-            "version": "27.0.2.1"
+            "version": "[27.0.2.1, )"
           },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
-            "version": "27.0.2.1"
+            "version": "[27.0.2.1, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[3.1.0.697729, )"
           }
         }
       }

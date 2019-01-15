@@ -395,11 +395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/RestApi/RestApi/RestApi.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/RestApi.csproj",
       "projectName": "RestApi",
-      "projectPath": "/Users/malikabaglan/Projects/RestApi/RestApi/RestApi.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/RestApi.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/RestApi/RestApi/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/RestApi/RestApi/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

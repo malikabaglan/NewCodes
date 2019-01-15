@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/WordCounter/TextUtils/TextUtils.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/WordCounter/TextUtils/TextUtils.csproj",
       "projectName": "TextUtils",
-      "projectPath": "/Users/malikabaglan/Projects/WordCounter/TextUtils/TextUtils.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/WordCounter/TextUtils/TextUtils.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/WordCounter/TextUtils/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/WordCounter/TextUtils/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -217,7 +217,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.3",
+            "version": "[2.0.3, )",
             "autoReferenced": true
           }
         },

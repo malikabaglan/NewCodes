@@ -1,18 +1,13 @@
-﻿<Properties StartupConfiguration="{5EB4CCE1-DB7E-4A6D-A033-5A0F58716065}|Default">
-  <MonoDevelop.Ide.ItemProperties.Maps.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Maps/MainPage.xaml.cs">
+﻿<Properties StartupConfiguration="{6FB2269D-DAA3-40BB-A972-2C2C039A1655}|Default">
+  <MonoDevelop.Ide.ItemProperties.Maps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maps/CheckAndUnchecked.xaml">
     <Files>
-      <File FileName="Maps/MainPage.xaml.cs" Line="35" Column="17" />
-      <File FileName="Maps/MainPage.xaml" Line="18" Column="5" />
-      <File FileName="Maps/App.xaml" Line="5" Column="15" />
-      <File FileName="Maps/App.xaml.cs" Line="14" Column="32" />
-      <File FileName="Maps.iOS/AppDelegate.cs" Line="28" Column="32" />
-      <File FileName="Maps.Android/MainActivity.cs" Line="24" Column="1" />
-      <File FileName="Maps.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="Maps.Android/Properties/AndroidManifest.xml" Line="11" Column="9" />
+      <File FileName="Maps/MyOwnCheckBoxes.xaml" Line="10" Column="14" />
+      <File FileName="Maps/MyOwnCheckBoxes.xaml.cs" Line="1" Column="1" />
+      <File FileName="Maps/CheckAndUnchecked.xaml" Line="14" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Maps.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Maps.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -17,5 +17,11 @@ namespace RestApi
         {
             return restServices.CallGetAPI();
         }
+
+        public Task<List<TechItem>> PostAsyncData()
+        {
+            return restServices.CallPostApi();
+        }
+
     }
 }
