@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/MasterDetailPractice.iOS.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/MasterDetailPractice.iOS.csproj",
       "projectName": "MasterDetailPractice.iOS",
-      "projectPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/MasterDetailPractice.iOS.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/MasterDetailPractice.iOS.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -738,8 +738,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj"
             }
           }
         }

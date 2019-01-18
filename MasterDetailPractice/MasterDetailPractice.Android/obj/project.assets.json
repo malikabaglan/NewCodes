@@ -782,11 +782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.Android/MasterDetailPractice.Android.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.Android/MasterDetailPractice.Android.csproj",
       "projectName": "MasterDetailPractice.Android",
-      "projectPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.Android/MasterDetailPractice.Android.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.Android/MasterDetailPractice.Android.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.Android/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabaglan/.config/NuGet/NuGet.Config"
@@ -800,8 +800,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj": {
-              "projectPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj"
+            "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj": {
+              "projectPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj"
             }
           }
         }

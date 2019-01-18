@@ -1,5 +1,5 @@
---cache=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
---sim=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/MasterDetailPractice.iOS.app
+--cache=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
+--sim=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/MasterDetailPractice.iOS.app
 --executable=MasterDetailPractice.iOS
 --debug
 --nolink
@@ -9,9 +9,9 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
+--symbollist=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
 --dsym=no
--r=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/bin/Debug/netstandard2.0/MasterDetailPractice.dll
+-r=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/bin/Debug/netstandard2.0/MasterDetailPractice.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
@@ -196,7 +196,7 @@
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.3.0.967583/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.3.0.967583/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/malikabaglan/.nuget/packages/xamarin.forms/3.3.0.967583/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/bin/Debug/netstandard2.0/MasterDetailPractice.dll
+-r=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/bin/Debug/netstandard2.0/MasterDetailPractice.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice.iOS/bin/iPhoneSimulator/Debug/MasterDetailPractice.iOS.exe
+--root-assembly=/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice.iOS/bin/iPhoneSimulator/Debug/MasterDetailPractice.iOS.exe
 

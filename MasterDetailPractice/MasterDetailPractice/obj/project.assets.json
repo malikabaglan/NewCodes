@@ -348,11 +348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj",
+      "projectUniqueName": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj",
       "projectName": "MasterDetailPractice",
-      "projectPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj",
+      "projectPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MasterDetailPractice.csproj",
       "packagesPath": "/Users/malikabaglan/.nuget/packages/",
-      "outputPath": "/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/obj",
+      "outputPath": "/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

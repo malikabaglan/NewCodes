@@ -16,11 +16,11 @@ public class GridViewRenderer
 	}
 
 
-	public GridViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
+	public GridViewRenderer (android.content.Context p0)
 	{
-		super (p0, p1, p2);
+		super (p0);
 		if (getClass () == GridViewRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -32,11 +32,11 @@ public class GridViewRenderer
 	}
 
 
-	public GridViewRenderer (android.content.Context p0)
+	public GridViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
-		super (p0);
+		super (p0, p1, p2);
 		if (getClass () == GridViewRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.GridViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 

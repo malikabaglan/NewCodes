@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{6FB2269D-DAA3-40BB-A972-2C2C039A1655}|Default">
+﻿<Properties StartupConfiguration="{5EB4CCE1-DB7E-4A6D-A033-5A0F58716065}|Default">
   <MonoDevelop.Ide.ItemProperties.Maps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Maps/CheckAndUnchecked.xaml">
     <Files>
       <File FileName="Maps/MyOwnCheckBoxes.xaml" Line="10" Column="14" />
       <File FileName="Maps/MyOwnCheckBoxes.xaml.cs" Line="1" Column="1" />
-      <File FileName="Maps/CheckAndUnchecked.xaml" Line="14" Column="35" />
+      <File FileName="Maps/CheckAndUnchecked.xaml" Line="3" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Maps.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Maps.Android PreferredExecutionTarget="Android.test_device" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

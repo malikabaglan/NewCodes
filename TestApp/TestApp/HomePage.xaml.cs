@@ -14,6 +14,7 @@ namespace TestApp
             InitializeComponent();
             viewModal = new HomeVM();
             BindingContext = viewModal;
+            //comm
         }
 
         void Handle_Clicked(object sender, System.EventArgs e)

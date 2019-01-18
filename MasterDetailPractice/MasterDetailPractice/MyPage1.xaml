@@ -3,6 +3,36 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="MasterDetailPractice.MyPage1">
     <ContentPage.Content>
-        <Label Text="Page 1"></Label>
+    <Grid Padding="50" ColumnSpacing="30" RowSpacing="30">
+  
+            <Grid.RowDefinitions > 
+                <RowDefinition  Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                   <RowDefinition Height="40"></RowDefinition>
+             </Grid.RowDefinitions>
+            
+            
+            <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="180" />
+    <ColumnDefinition Width="80" />
+
+  </Grid.ColumnDefinitions>
+            
+ <Entry Text = "Malika" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+<!--            <Entry Grid.Row="0" Placeholder="leaving from" Grid.Column="0" PlaceholderColor="BSlack" Grid.ColumnSpan="2" ></Entry>-->
+ <Entry Grid.Row="1" Placeholder="Going to" PlaceholderColor="Black" Grid.Column="0" Grid.ColumnSpan="1" ></Entry>
+ <Entry Grid.Row="1" Placeholder="Going to" PlaceholderColor="Black" Grid.Column="1" Grid.ColumnSpan="1"></Entry>
+ <Entry Grid.Row="2" Placeholder="Going to" PlaceholderColor="Black"  Grid.ColumnSpan="2" ></Entry>   
+ <Entry Grid.Row="3" Placeholder="Going from" PlaceholderColor="Black"  ></Entry>           
+</Grid>
+        
+        
+        
+        
+        
+  
+        
+        
     </ContentPage.Content>
 </ContentPage>

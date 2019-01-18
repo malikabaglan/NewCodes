@@ -1,12 +1,16 @@
 ﻿<Properties StartupConfiguration="{E2FF0DBC-ADD7-4AC5-9B70-A8C74390CA89}|Default">
   <MonoDevelop.Ide.ItemProperties.MasterDetailPractice.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPractice/MyPage1.xaml">
+    <Files>
+      <File FileName="MasterDetailPractice/MyPage1.xaml" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MasterDetailPractice.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/malikabaglan/Projects/MasterDetailPractice/MasterDetailPractice/MyPage.xaml.cs" relfile="MasterDetailPractice/MyPage.xaml.cs" line="8" column="1" />
+      <Breakpoint file="/Users/malikabaglan/Projects/NewCodes/MasterDetailPractice/MasterDetailPractice/MyPage.xaml.cs" relfile="MasterDetailPractice/MyPage.xaml.cs" line="8" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

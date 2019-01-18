@@ -15,11 +15,11 @@ public class ExtendedTableViewRenderer
 	}
 
 
-	public ExtendedTableViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
+	public ExtendedTableViewRenderer (android.content.Context p0)
 	{
-		super (p0, p1, p2);
+		super (p0);
 		if (getClass () == ExtendedTableViewRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ExtendedTableViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ExtendedTableViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -31,11 +31,11 @@ public class ExtendedTableViewRenderer
 	}
 
 
-	public ExtendedTableViewRenderer (android.content.Context p0)
+	public ExtendedTableViewRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
-		super (p0);
+		super (p0, p1, p2);
 		if (getClass () == ExtendedTableViewRenderer.class)
-			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ExtendedTableViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("XLabs.Forms.Controls.ExtendedTableViewRenderer, XLabs.Forms.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 	private java.util.ArrayList refList;

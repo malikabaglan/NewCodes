@@ -34,3 +34,4 @@
 /Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.dll
 /Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.pdb
+/Users/malikabaglan/Projects/NewCodes/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csprojAssemblyReference.cache

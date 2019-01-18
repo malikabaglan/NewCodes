@@ -105,8 +105,11 @@
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/R.cs.flag
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/R.txt
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/uploadflags.txt
+/Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/bin/Debug/FormsViewGroup.pdb
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/bin/Debug/Mono.Android.pdb
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/bin/Debug/Mono.Android.Export.pdb
+/Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/linksrc/Maps.Android.pdb
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/linksrc/FormsViewGroup.pdb
 /Users/malikabaglan/Projects/NewCodes/Maps/Maps.Android/obj/Debug/linksrc/Maps.pdb

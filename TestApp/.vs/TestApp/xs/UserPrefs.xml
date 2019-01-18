@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{225F9F2F-9DDD-4E12-BAFC-1C9011AED6BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/ButtonPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/HomePage.xaml.cs">
     <Files>
       <File FileName="TestApp/NewTravelPage.xaml.cs" Line="45" Column="1" />
       <File FileName="TestApp/Modal/Post.cs" Line="173" Column="10" />
@@ -7,7 +7,7 @@
       <File FileName="TestApp.iOS/Main.cs" Line="17" Column="1" />
       <File FileName="TestApp/Modal/User.cs" Line="60" Column="10" />
       <File FileName="TestApp/ViewModal/Commands/NavigationCommands.cs" Line="18" Column="49" />
-      <File FileName="TestApp/HomePage.xaml.cs" Line="16" Column="40" />
+      <File FileName="TestApp/HomePage.xaml.cs" Line="6" Column="1" />
       <File FileName="TestApp/HomePage.xaml" Line="13" Column="41" />
       <File FileName="TestApp/App.xaml.cs" Line="59" Column="2" />
       <File FileName="TestApp/Views/MainPage.xaml" Line="31" Column="15" />

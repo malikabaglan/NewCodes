@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F7032A79-6241-4369-A790-82FDBE4D86C8}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FirstApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FirstApp.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstApp/ViewModels/BaseViewModel.cs">
+    <Files>
+      <File FileName="FirstApp/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="FirstApp/Services/CloudDataStore.cs" Line="75" Column="10" />
+      <File FileName="FirstApp/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="FirstApp/Services/MockDataStore.cs" Line="18" Column="104" />
+      <File FileName="FirstApp/Helpers/Command.cs" Line="7" Column="6" />
+      <File FileName="FirstApp/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="FirstApp/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
