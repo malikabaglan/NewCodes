@@ -9,10 +9,11 @@
                 <RowDefinition  Height="40"></RowDefinition>
                 <RowDefinition Height="40"></RowDefinition>
                 <RowDefinition Height="40"></RowDefinition>
-                   <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                 <RowDefinition Height="40"></RowDefinition>
              </Grid.RowDefinitions>
             
-            
+           
             <Grid.ColumnDefinitions>
     <ColumnDefinition Width="180" />
     <ColumnDefinition Width="80" />
@@ -24,7 +25,8 @@
  <Entry Grid.Row="1" Placeholder="Going to" PlaceholderColor="Black" Grid.Column="0" Grid.ColumnSpan="1" ></Entry>
  <Entry Grid.Row="1" Placeholder="Going to" PlaceholderColor="Black" Grid.Column="1" Grid.ColumnSpan="1"></Entry>
  <Entry Grid.Row="2" Placeholder="Going to" PlaceholderColor="Black"  Grid.ColumnSpan="2" ></Entry>   
- <Entry Grid.Row="3" Placeholder="Going from" PlaceholderColor="Black"  ></Entry>           
+ <Entry Grid.Row="3" Placeholder="Going from" PlaceholderColor="Black"  Grid.ColumnSpan="2" ></Entry>   
+             <Entry Grid.Row="4" Placeholder="Going from" PlaceholderColor="Black"  Grid.ColumnSpan="2" ></Entry>  
 </Grid>
         
         
