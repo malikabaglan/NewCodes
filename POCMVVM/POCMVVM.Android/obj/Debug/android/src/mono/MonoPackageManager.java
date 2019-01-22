@@ -108,6 +108,9 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "POCMVVM.Android.dll" comes first in this list. */
 		"POCMVVM.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.Geolocator.dll",
+		"Plugin.Permissions.dll",
 		"POCMVVM.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
