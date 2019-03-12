@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.MasterDetailPractice.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPractice/MyPage1.xaml">
     <Files>
-      <File FileName="MasterDetailPractice/MyPage1.xaml" Line="25" Column="46" />
+      <File FileName="MasterDetailPractice/MyPage1.xaml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MasterDetailPractice.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />

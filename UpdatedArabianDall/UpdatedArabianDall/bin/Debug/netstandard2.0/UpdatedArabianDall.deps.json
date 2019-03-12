@@ -1,0 +1,199 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "6659a687477ff99765a0b222d4c82cc407baf59c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "UpdatedArabianDall/1.0.0": {
+        "dependencies": {
+          "CarouselView.FormsPlugin": "5.2.0",
+          "NETStandard.Library": "2.0.3",
+          "Prism.Autofac.Forms": "7.1.0.431",
+          "Xamarin.Forms": "3.4.0.1008975"
+        },
+        "runtime": {
+          "UpdatedArabianDall.dll": {}
+        }
+      },
+      "Autofac/4.8.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Autofac.dll": {
+            "assemblyVersion": "4.8.1.0",
+            "fileVersion": "4.8.1.0"
+          }
+        }
+      },
+      "CarouselView.FormsPlugin/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/CarouselView.FormsPlugin.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/1.0.1": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Prism.Autofac.Forms/7.1.0.431": {
+        "dependencies": {
+          "Autofac": "4.8.1",
+          "Prism.Forms": "7.1.0.431"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Autofac.Forms.dll": {
+            "assemblyVersion": "7.1.0.431",
+            "fileVersion": "7.1.0.431"
+          }
+        }
+      },
+      "Prism.Core/7.1.0.431": {
+        "runtime": {
+          "lib/netstandard2.0/Prism.dll": {
+            "assemblyVersion": "7.1.0.431",
+            "fileVersion": "7.1.0.431"
+          }
+        }
+      },
+      "Prism.Forms/7.1.0.431": {
+        "dependencies": {
+          "Prism.Core": "7.1.0.431",
+          "Xamarin.Forms": "3.4.0.1008975"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Forms.dll": {
+            "assemblyVersion": "7.1.0.431",
+            "fileVersion": "7.1.0.431"
+          }
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.ComponentModel.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "1.0.24212.1"
+          }
+        }
+      },
+      "System.Runtime/4.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.0.1"
+        }
+      },
+      "Xamarin.Forms/3.4.0.1008975": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UpdatedArabianDall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GYRLxd2wCzhvee2u1vs3AbUbF4CHDWfD7BCNjD3Vxb4wxQz3HC8bPm9Sj9uOT0gE8a6PC2fx1zufmhLgxK+cZg==",
+      "path": "autofac/4.8.1",
+      "hashPath": "autofac.4.8.1.nupkg.sha512"
+    },
+    "CarouselView.FormsPlugin/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rN9CRpr/xkp0F+1oBdqtPwu7g2D6MZXl7gSuUoxGWIjCQKaiCh0cqY2WbRY2UbkpliPiNpopjQ+Ptj0XoplTJw==",
+      "path": "carouselview.formsplugin/5.2.0",
+      "hashPath": "carouselview.formsplugin.5.2.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-btjnX5RaGGUQZv6e4xz2yCV6WXQ0D+TSYkOJA8SVmkefSlFaTROJ5tPTqzTwmjx7wgCaraLop/aXtmVagtO/yQ==",
+      "path": "microsoft.netcore.targets/1.0.1",
+      "hashPath": "microsoft.netcore.targets.1.0.1.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Prism.Autofac.Forms/7.1.0.431": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-styHJpJ2A3XvDGFvVY7FNmzFWqD47OiUHEcdzTGfnZmvznLuO01bMRU6P5PKd4P42E3sT/xSTycV7uLJzOI18Q==",
+      "path": "prism.autofac.forms/7.1.0.431",
+      "hashPath": "prism.autofac.forms.7.1.0.431.nupkg.sha512"
+    },
+    "Prism.Core/7.1.0.431": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tBkEf4cDYn2oQfW1wPem4jJK/H1Z4mJsnndO04n2oZyIql7Bj3OVlpfQ6vbPgbtlkEN0oyn02XVurZba3DYqmQ==",
+      "path": "prism.core/7.1.0.431",
+      "hashPath": "prism.core.7.1.0.431.nupkg.sha512"
+    },
+    "Prism.Forms/7.1.0.431": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sbwu3Ao4yUPVQ4gln1EA5N9vOj/NkaOEYNoCvuY5BOGlkTQod5gPnGJST2ZFsj1gHLJHSdvlT5OP+RKEeqo7pQ==",
+      "path": "prism.forms/7.1.0.431",
+      "hashPath": "prism.forms.7.1.0.431.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tN5DPMYg6yFO5lF5L5hF6TIZDcRQ/+f1YcXGP8y2Yy4971XoxPOLH4lkkL20v6zb4aAVsp+xrkRwzMFeR5ZHqw==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SwXraLtIWEZwfE/jOT+WFtP/tsX2KhIdgRQt330CQckx/pbRk7e/Aigak2hFjgdkRmdmVXz6lwkDXcdtj913Bg==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.4.0.1008975": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
+      "path": "xamarin.forms/3.4.0.1008975",
+      "hashPath": "xamarin.forms.3.4.0.1008975.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/bin/Debug/netstandard2.0/UpdatedArabianDall.deps.json
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/bin/Debug/netstandard2.0/UpdatedArabianDall.dll
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/bin/Debug/netstandard2.0/UpdatedArabianDall.pdb
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/View/LandingPage.xaml.g.cs
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/UpdatedArabianDall.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/UpdatedArabianDall.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/UpdatedArabianDall.AssemblyInfo.cs
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/UpdatedArabianDall.dll
+/Users/malikabaglan/Projects/UpdatedArabianDall/UpdatedArabianDall/obj/Debug/netstandard2.0/UpdatedArabianDall.pdb

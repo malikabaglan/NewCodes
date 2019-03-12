@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9DDF93F8-7AD3-4000-882C-69C40A5B8749}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpdatedArabianDall/View/LandingPage.xaml">
+    <Files>
+      <File FileName="UpdatedArabianDall/View/LandingPage.xaml" Line="21" Column="31" />
+      <File FileName="UpdatedArabianDall/ViewModal/LandingPageViewModel.cs" Line="22" Column="2" />
+      <File FileName="UpdatedArabianDall/Helpers/CointanerExtentions.cs" Line="44" Column="2" />
+      <File FileName="UpdatedArabianDall/Helpers/PageAttribute.cs" Line="9" Column="10" />
+      <File FileName="UpdatedArabianDall/Modal/Slide.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpdatedArabianDall" expanded="True">
+            <Node name="UpdatedArabianDall" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Modal" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="LandingPage.xaml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="UpdatedArabianDall.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UpdatedArabianDall.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UpdatedArabianDall.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
